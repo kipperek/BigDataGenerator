@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/fonts/font1.OTF,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/fonts/font1.OTF)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/fonts/font2.OTF,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/fonts/font2.OTF)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/images/gen.png,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/images/gen.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/images/home.png,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/images/home.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/images/add.png,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/images/add.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/images/favicon.png,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/images/favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/images/base.png,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/images/base.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/javascripts/d3.js,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/javascripts/d3.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/javascripts/jquery-1.9.0.min.js,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/javascripts/jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/javascripts/map.js,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/javascripts/map.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/maps/data.json,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/maps/data.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/public/stylesheets/main.css,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/public/stylesheets/main.css)[0m

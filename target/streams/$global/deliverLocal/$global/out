@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: scalaproj#scalaproj_2.10;1.0-SNAPSHOT :: 1.0-SNAPSHOT :: integration :: Sun Jan 12 18:55:42 CET 2014[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Sun Jan 12 18:55:42 CET 2014 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/kainos/Projekt/scalaProj/target/scala-2.10/ivy-1.0-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (36ms)[0m

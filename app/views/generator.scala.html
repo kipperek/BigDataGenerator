@@ -1,0 +1,17 @@
+@(generateForm: Form[Int])(implicit lang: Lang)
+
+@import helper._
+
+@template("Generate data automaticly", "gen.png"){
+	<div id="textContent">
+	<h2>Generator will automatically generate given amount of <br>data and insert it into database.</h2>
+			<form action="@controllers.routes.Application.generatorPost()" method="post">
+				<div style="float:left; margin-left: 50px; text-align:right;">
+				    Number of rows to generate &nbsp;&nbsp;<input type="text" name="number"/><br>
+					<input type="submit" value='@Messages("persons.generate.submit")' id="generatorSubmit"/>
+				</div>
+			</form>
+			
+	</div>
+				
+}

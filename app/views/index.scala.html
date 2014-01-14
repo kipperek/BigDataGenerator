@@ -1,0 +1,12 @@
+@(message: String)
+
+@template("Insurance BigData Generator", "home.png"){
+	<div id="textContent">
+				<h1>Welcome to the Insurance Big Data Generator!</h1> <p style="margin-left: 30px;">What you want to do?<p>
+				<ul style="margin-left: 40px;">
+					<li><a href="@controllers.routes.Application.generator()">I want to automatically generate big amount of data.</a></li>
+					<li><a href="@controllers.routes.Application.add()">I want to manually add data to database.</a></li>
+					<li><a href="@controllers.routes.Application.database()">I want to see what's in database.</a></li>
+				</ul>
+			</div>
+}

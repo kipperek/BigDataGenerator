@@ -1,0 +1,161 @@
+body {
+	margin:0 0 0 0;
+	font-family: CustomFont;
+	font-size: 16px;
+	color: #4A4A4A;
+	background-color: white;
+}
+h1,h2,h3{
+	font-weight: normal;
+}
+input{
+	width:250px;
+	border: 1px solid gray;
+}
+input[type=radio]{
+	width: 20px;
+}
+select{
+	width:250px;
+}
+#generatorSubmit{
+	margin: 5px 0 0 0px;
+	/*padding-top: 4px;*/
+}
+input[type=submit],input[type=reset]{
+	margin: 5px 5px 5px 5px;
+	width: 75px;
+	height: 35px;
+	background: #007194;
+	border: none;
+	font-family: CustomFont;
+	font-size: 16px;
+	outline: 0;
+	color: black;
+	vertical-align: top;
+	padding-top: 4px;
+}
+input[type=submit]:focus,input[type=reset]:focus,input[type=submit]:active,input[type=reset]:active{
+	outline: 0;
+}
+input[type=submit]:hover,input[type=reset]:hover{
+	background: #fcd954;
+}
+
+#header{
+	width: 100%;
+	min-width: 1200px;
+	height: 70px;
+	
+	background: #85A5CC;
+	margin: 20px 0 20px 0;
+}
+#header-content{
+width: 1000px;
+margin: 0 auto 0 auto;
+font-size: 38px;
+font-family: HeadingFont;
+vertical-align: middle;
+}
+#himg{
+	margin:19px 10px 0 0;
+	width: 32px;
+	height: 32px;
+	float: left;
+}
+#htxt{
+	margin-top: 14px;
+	float: left;
+}
+#menu{
+	padding-top: 10px;
+	text-align: right;
+}
+#menu a{
+	margin: 0 10px 0px 10px;
+	color: #4A4A4A;
+	font-size: 26px;
+	text-decoration: none;
+	display: inline-block;
+}
+#menu a:visited,#menu a:link{
+	color: #4A4A4A;
+}
+#menu a:hover{
+	color: #fcd954;
+}
+
+#content{
+	width: 1200px;
+	margin: 0 auto 0 auto;
+}
+#map{
+	width: 700px;
+	height: 500px;
+	float: left;
+	margin: 10px 20px 0 0;
+	vertical-align: middle;
+}
+
+
+.none_active{
+	fill: #aaa;
+	stroke: white;
+	stroke-width: 0.5;
+}
+.active_loc{
+	fill: #85A5CC;
+	stroke: white;
+}
+
+.formTable{
+	border-collapse:collapse;
+	margin-bottom: 20px;
+	min-width: 480px;
+}
+.formTable td{
+	padding: 5px 18px 5px 0;
+}
+.formTable tr{
+	border-bottom:1px solid #E3E3E3;
+	border-top:1px solid #E3E3E3;
+}
+
+.showTable{
+	border-collapse:collapse;
+	margin-bottom: 20px;
+	width: 100%
+}
+
+.showTable td{
+	padding: 8px 5px 8px 5px;
+	text-align: left;
+	font-size: 14px;
+	min-width: 100px;
+}
+.showTable tr{
+	border-bottom:1px solid #E3E3E3;
+	border-top:1px solid #E3E3E3;
+}
+.showTable th{
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#textContent{
+	width:1000px;
+	margin: 0 auto 0 auto;
+	font-size: 20px;
+}
+ a{
+	color: #85A5CC;
+	text-decoration: none;
+}
+ a:visited, a:link{
+	color: #85A5CC;
+}
+a:hover{
+	color: #fcd954;
+}

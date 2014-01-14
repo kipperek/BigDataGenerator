@@ -1,0 +1,20 @@
+application.name = Person Generator
+
+name = Name
+lastName = Last name
+sex = Sex
+dateOfBirth = Date of birth
+civilStatus = Civil status
+dateOfInsuranceSigning = Date of insurance signing 
+dateOfInsuranceEnding = Date of insurance ending 
+location=Location
+insuranceType=Insurance type
+insurancePremium=Insurance premium 
+insuranceValue=Insurance value
+
+persons.generate = Generate persons
+persons.generate.number = How many persons\n would you like to generate:
+persons.generate.header = Generator will automatically generate given amount of \n data and insert it to database.
+persons.generate.submit = Generate
+persons.add = Add
+

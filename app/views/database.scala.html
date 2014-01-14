@@ -1,0 +1,42 @@
+@(persons: List[Person], personsNumber: Int)(implicit lang: Lang)
+
+@template("BigData database", "base.png"){
+
+	
+		<h2 style="margin-top: 30px;">
+			Actually, there are @personsNumber persons in the database. Here are some of them: 
+		</h2>
+	
+	<table class="showTable">
+		<tr>
+			<th>@Messages("name")</th>
+			<th>@Messages("lastName")</th>
+			<th>@Messages("sex")</th>
+			<th>@Messages("dateOfBirth")</th>
+			<th>@Messages("civilStatus")</th>
+			<th>@Messages("dateOfInsuranceSigning")</th>
+			<th>@Messages("dateOfInsuranceEnding")</th>
+			<th>@Messages("location")</th>
+			<th>@Messages("insuranceType")</th>
+			<th>@Messages("insurancePremium")</th>
+			<th>@Messages("insuranceValue")</th>
+		</tr>
+		@for(person <- persons) {
+			<tr>
+				<td>@person.name</td>			
+				<td>@person.lastName</td>		
+				<td>@person.sex</td>			
+				<td>@person.dateOfBirth</td>			
+				<td>@person.civilStatus</td>
+				<td>@person.dateOfInsuranceSigning</td>
+				<td>@person.dateOfInsuranceEnding</td>
+				<td>@person.location</td>
+				<td>@person.insuranceType</td>				
+				<td>@person.insurancePremium</td>
+				<td>@person.insuranceValue</td>
+			</tr>
+			}
+	</table>
+	
+
+}

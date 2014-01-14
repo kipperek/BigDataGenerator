@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/conf/application.conf,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/conf/messages,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/messages)[0m
+[0m[[0mdebug[0m] [0m	(/home/kainos/Projekt/scalaProj/conf/routes,/home/kainos/Projekt/scalaProj/target/scala-2.10/classes/routes)[0m
